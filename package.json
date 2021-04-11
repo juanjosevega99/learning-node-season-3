@@ -1,0 +1,14 @@
+{
+  "name": "learning-node-season-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "repository": "git@github.com:juanjosevega99/learning-node-season-3.git",
+  "author": "Juan Jose Vega <juanvega.tech@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
